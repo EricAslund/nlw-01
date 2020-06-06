@@ -1,0 +1,14 @@
+{
+	"name": "Mescado do se Ze",
+	"email": "eric_aslund@yahoo.com",
+	"whatsapp": "54546548354",
+	"latitude": -21.7770542,
+	"longitude": -43.344494,
+	"city": "Juiz de Fora",
+	"uf": "MG",
+	"items": [
+	7,
+	9,
+	11
+	]
+}
